@@ -30,7 +30,7 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 <br>
 
 <p align="center">
-  <img src=".github/logo.svg" alt="WatchMe">
+  <img src=".github/shoes.gif" alt="WatchMe">
 </p>
 
 ## 👨🏻‍💻 Techs
@@ -54,11 +54,8 @@ Essa será uma aplicação onde o seu principal objetivo é criar um hook de 
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/BrunoSampaioDev/BootCamp-Rocketseat-Desafio-02.git
+git clone https://github.com/BrunoSampaioDev/BootCamp-Rocketseat-Desafio-mod-02-Principal.git
 # ou use a opção de download.
-
-# Entre na pasta com 
-cd ignite-componentes
 
 # Instale as dependências
 yarn install
@@ -67,9 +64,9 @@ yarn install
 yarn server
 
 # Rode a aplicação
-yarn dev
+yarn start
 
-# Acesse http://localhost:8080 no seu navagador
+# Acesse http://localhost:3000 no seu navagador
 ```
 
 # Authors
@@ -84,11 +81,13 @@ yarn dev
 <div align="center">
   <h1>Open Source</h1>
   <sub>Copyright © 2021-present, Bruno Sampaio.</sub>
-  <p>WatchMe <a href="https://github.com/BrunoSampaioDev/BootCamp-Rocketseat-Desafio-02/blob/main/LICENSE">is MIT licensed 💖</a></p>
+  <p>
+  Rockeshoes <a href="https://github.com/BrunoSampaioDev/BootCamp-Rocketseat-Desafio-mod-02-Principal/blob/master/LICENSE">is MIT licensed 💖</a>
+  </p>
   
   <font size="6">
-    <p style="color:yellow">
-      Watch<span style="color:grey">Me</span>
+    <p align="center">
+        <img src=".github/logo.svg" alt="rockeshoes">
     </p>
   </font>
 </div>
