@@ -85,7 +85,7 @@ yarn start
   Rockeshoes <a href="https://github.com/BrunoSampaioDev/BootCamp-Rocketseat-Desafio-mod-02-Principal/blob/master/LICENSE">is MIT licensed 💖</a>
   </p>
   
-  <font size="6">
+  <font size="3">
     <p align="center">
         <img src=".github/logo.svg" alt="rockeshoes">
     </p>
